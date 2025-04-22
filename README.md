@@ -21,7 +21,7 @@ A web-based outfit builder application that allows users to mix and match clothi
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/outfit-builder.git
+   git clone https://github.com/Jaswanth86/Outfit-Builder.git
    cd outfit-builder
    ```
 
